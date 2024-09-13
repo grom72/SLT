@@ -1,0 +1,2 @@
+# SLT
+Scorecard License Test
